@@ -1,0 +1,6 @@
+a[href*="http"] {
+    color: #ff0000;
+}
+ul+p {
+    font-size: 24px;
+}
